@@ -5,7 +5,8 @@
 ## User Story 
 Design a database of celestial bodies using PostgreSQL.
 
-<img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/postgresql.svg" width="48">
+![postgreSQL](https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+
 
 ## Building the DB
 
@@ -30,6 +31,6 @@ Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 ![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/Simplified_DCM_of_DB.svg)
 
 
-<img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/moonparrot.gif" width="48">
+<img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/moonparrot.gif" width="24">
 
 
