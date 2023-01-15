@@ -20,7 +20,8 @@ For example: planetary systems with a main star to relate tables 'planet' and 's
 
 ✨ Relationships built | Galaxies > Stars > Planets > Moons.
 
-## Relational Database Diagram
+## Simplified data conceptual model (DCM) of the database
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
 ![Relational Database Diagram](https://github.com/z-bj/galaxy_psql_DB/blob/master/mcd.drawio.png)
+![DCM_of_the_database](images/someimage.png)
