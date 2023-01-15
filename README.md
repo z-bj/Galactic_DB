@@ -1,15 +1,15 @@
 ![celestial bodies database banner](https://github.com/z-bj/galaxy_psql_DB/blob/master/galaxy_DB.png)
 
-## User Story: 
+## User Story 
 Design a database of celestial bodies using PostgreSQL.
 
-## Building the DB:
+## Building the DB
 
 Main celestial bodies used: Galaxies, Stars, Planets and Moons.
 
 Create a table for each of these celestial bodies, plus an additional table with different planet types and their description.
 
-### Research:
+### Research
 
 Research goal: Find celestial bodies that can be related to other celestial bodies.
 For example: planetary systems with a main star to relate tables 'planet' and 'star' - or planets with satellites to relate tables 'planet' and 'moon'.
