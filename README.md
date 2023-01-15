@@ -1,5 +1,4 @@
+# 💻 Project: Creating Relational Databases on PostgreSQL 
 
-# Galaxy_psql_DB
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+![celestial bodies database banner](https://github.com/z-bj/galaxy_psql_DB/blob/master/galaxy_psql_db.png)
 
