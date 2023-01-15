@@ -3,7 +3,7 @@
 ## User Story: 
 Build a database of celestial bodies using PostgreSQL.
 
-## Creating the database:
+## Building the DB:
 
 Main celestial bodies used: Galaxies, Stars, Planets and Moons.
 
