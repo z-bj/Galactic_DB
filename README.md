@@ -4,7 +4,6 @@
 
 ## User Story 
 Design a database of celestial bodies using PostgreSQL.
-![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/Simplified_DCM_of_DB.svg)
 
 <img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/postgresql.svg" width="48">
 
