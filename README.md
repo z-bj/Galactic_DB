@@ -23,4 +23,4 @@ For example: planetary systems with a main star to relate tables 'planet' and 's
 ## Simplified data conceptual model (DCM) of the database
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
-![DCM_of_the_database]()
+![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/Simplified_DCM_of_DB.svg)
