@@ -1,7 +1,7 @@
 ![celestial bodies database banner](https://github.com/z-bj/galaxy_psql_DB/blob/master/galaxy_DB.png)
 
 ## User Story: 
-Build a database of celestial bodies using PostgreSQL.
+Design a database of celestial bodies using PostgreSQL.
 
 ## Building the DB:
 
