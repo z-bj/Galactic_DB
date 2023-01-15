@@ -21,6 +21,6 @@ For example: planetary systems with a main star to relate tables 'planet' and 's
 ✨ Relationships built | Galaxies > Stars > Planets > Moons.
 
 ## Relational Database Diagram
-Made by replicating database on Microsoft SQL Server Management Server
+Made by replicating database on DRAW.IO
 
 ![Relational Database Diagram](https://github.com/z-bj/galaxy_psql_DB/blob/master/mcd.drawio.png)
