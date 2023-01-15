@@ -25,5 +25,5 @@ Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
 ![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/Simplified_DCM_of_DB.svg)
 
-![moon_parrat](https://github.com/z-bj/galaxy_psql_DB/blob/master/moonparrot.gif)
+![moon_parrat](https://github.com/z-bj/galaxy_psql_DB/blob/master/moonparrot.gif =50x50)
 
