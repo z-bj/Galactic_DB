@@ -14,22 +14,22 @@ Main celestial bodies used: Galaxies, Stars, Planets and Moons.
 
 Create a table for each of these celestial bodies, plus an additional table with different planet types and their description.
 
-### Research
+### Research & Development 
 
-Research goal: Find celestial bodies that can be related to other celestial bodies.
-For example: planetary systems with a main star to relate tables 'planet' and 'star' - or planets with satellites to relate tables 'planet' and 'moon'.
+Goal: Look up for celestial bodies that can be related to other celestial bodies.
+--> Planetary systems with a main star to relate tables 'planet' and 'star' 
+--> Planets with satellites to relate tables 'planet' and 'moon'.
 
-- Searched through Wikipedia and websites related to astrology and celestial bodies to look up the main variables to be tracked for each celestial body.
+- Searched through WWW. related to astronomy and celestial bodies to look up the main variables to be tracked for each celestial body.
 - Decided to stick to values such as mean radius, distance in light years and orbital period with the goal of creating a simple sample database.
 - Due to distance or lack of information of some celestial bodies there are instances of NULL values, and some values were rounded to 2 or 3 decimal places.
 
 ✨ Relationships built | Galaxies > Stars > Planets > Moons.
 
-## Simplified data conceptual model (DCM) of the database
+## Simplified Data Conceptual Model (DCM) of the DB.
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
 ![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/Simplified_DCM_of_DB.svg)
-
 
 <img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/moonparrot.gif" width="24">
 
