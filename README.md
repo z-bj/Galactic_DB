@@ -20,7 +20,7 @@ Goal: Look up for celestial bodies that can be related to other celestial bodies
 --> Planetary systems with a main star to relate tables 'planet' and 'star' 
 --> Planets with satellites to relate tables 'planet' and 'moon'.
 
-- Searched through WWW. related to astronomy and celestial bodies to look up the main variables to be tracked for each celestial body.
+- Searched through Web. related to astronomy and celestial bodies to look up the main variables to be tracked for each celestial body.
 - Decided to stick to values such as mean radius, distance in light years and orbital period with the goal of creating a simple sample database.
 - Due to distance or lack of information of some celestial bodies there are instances of NULL values, and some values were rounded to 2 or 3 decimal places.
 
