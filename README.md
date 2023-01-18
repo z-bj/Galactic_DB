@@ -26,7 +26,7 @@ Goal: Look up for celestial bodies that can be related to other celestial bodies
 
 ✨ Relationships built | Galaxies > Stars > Planets > Moons.
 
-## Simplified Data Conceptual Model (DCM) of the DB.
+## Data Conceptual Model (DCM)
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
 ![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/Simplified_DCM_of_DB.svg)
