@@ -1,4 +1,4 @@
-![celestial bodies database banner](https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/DB_galaxy.png)
+![celestial bodies database banner](https://github.com/z-bj/Galactic_DB/blob/master/Galactic-database-banner.jpg)
 
 
 
