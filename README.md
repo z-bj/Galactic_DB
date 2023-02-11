@@ -23,6 +23,8 @@ Goal: Look up for celestial bodies that can be related to other celestial bodies
 
 ✨ Relationships built | Galaxies > Stars > Planets > Moons.
 
+### [DB Dump](https://github.com/z-bj/Galactic_DB/blob/master/universe.sql)
+
 ## Data Conceptual Model (DCM)
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
