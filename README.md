@@ -28,7 +28,7 @@ Goal: Look up for celestial bodies that can be related to other celestial bodies
 ## Data Conceptual Model (DCM)
 Made by replicating database on [DRAW.IO](https://app.diagrams.net/)
 
-![DCM_of_the_database](https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/Simplified_DCM_of_DB.svg)
+![DCM_of_the_database](https://github.com/z-bj/Galactic_DB/blob/master/assets/DUM.jpg)
 
 <img src="https://github.com/z-bj/galaxy_psql_DB/blob/master/assets/moonparrot.gif" width="36">
 
