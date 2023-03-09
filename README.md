@@ -8,7 +8,7 @@
 ### User Story
 > Create a database of planetary systems leveraging PostgreSQL.
 
-This GitHub repository contains a PostgreSQL database of celestial bodies that was built as part of the FreeCodeCamp Relational Databases Beta Certificate course. The goal of the project was to create a sample database that includes the main celestial bodies such as galaxies, stars, planets, and moons, along with an additional table for different planet types and their descriptions.
+Here is a PostgreSQL database of celestial bodies that was built as part of the FreeCodeCamp Relational Databases Beta Certificate course. The goal of the project was to create a sample database that includes the main celestial bodies such as galaxies, stars, planets, and moons, along with an additional table for different planet types and their descriptions.
 
 ## Database Structure
 
