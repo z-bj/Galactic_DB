@@ -40,10 +40,11 @@ To create the database, research was conducted to identify the main variables to
 > Data Conceptual Model (DCM)
 
 ![DCM_of_the_database](https://github.com/z-bj/Galactic_DB/blob/master/assets/DUM.jpg)
-[DB Dump](https://github.com/z-bj/Galactic_DB/blob/master/universe.sql)
 
 
 The relational database diagram for the celestial bodies database was created by replicating the database on DRAW.IO The diagram provides a visual representation of the relationships between the tables and the structure of the database.
+
+[DB Dump](https://github.com/z-bj/Galactic_DB/blob/master/universe.sql)
 
 ## Usage
 
