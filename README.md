@@ -12,11 +12,11 @@ Here is a PostgreSQL database of celestial bodies that was built as part of the 
 
 ## Database Structure
 
-The celestial bodies database includes a separate table for each type of celestial body, as well as a table for planet types. Each table includes relevant information about the celestial bodies, such as name, distance, radius, and orbital period. Relationships between the tables were established to allow for easier navigation and querying of the data. The relationships follow the hierarchy of celestial bodies: galaxies contain stars, stars contain planets, and planets contain moons.
+The database includes a separate table for each type of celestial body, as well as a table for planet types. Each table includes relevant information about the celestial bodies, such as name, distance, radius, and orbital period. Relationships between the tables were established to allow for easier navigation and querying of the data. The relationships follow the hierarchy of celestial bodies: galaxies contain stars, stars contain planets, and planets contain moons.
 
 ## Research
 
-To create the celestial bodies database, research was conducted to identify the main variables to track for each celestial body. The research was based on sources such as Wikipedia and astronomy websites, and focused on values such as mean radius, distance in light years, and orbital period. Due to a lack of information or distance from some celestial bodies, some values in the database are null, and others were rounded to 2 or 3 decimal places.
+To create the database, research was conducted to identify the main variables to track for each celestial body. The research was based on sources such as Wikipedia and astronomy websites, and focused on values such as mean radius, distance in light years, and orbital period. Due to a lack of information or distance from some celestial bodies, some values in the database are null, and others were rounded to 2 or 3 decimal places.
 
 ## Relational Database Diagram
 [DRAW.IO](https://app.diagrams.net/) was used to replicate the database.
